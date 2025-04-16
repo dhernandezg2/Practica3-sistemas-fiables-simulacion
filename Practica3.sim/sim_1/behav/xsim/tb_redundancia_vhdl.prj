@@ -1,0 +1,12 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Practica3.srcs/sources_1/imports/new/clk_divider.vhd" \
+"../../../../Practica3.srcs/sources_1/imports/new/contador1.vhd" \
+"../../../../Practica3.srcs/sources_1/imports/new/contador2.vhd" \
+"../../../../Practica3.srcs/sources_1/imports/new/display_controller.vhd" \
+"../../../../Practica3.srcs/sources_1/imports/new/redundancia.vhd" \
+"../../../../Practica3.srcs/sources_1/imports/new/seven_decoder.vhd" \
+"../../../../Practica3.srcs/sim_1/new/tb_redundancia.vhd" \
+
+# Do not sort compile order
+nosort
