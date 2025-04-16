@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-1" LaunchTime="1744102498">
+  <File Type="ROUTE-PWR" Name="redundancia_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="redundancia.tcl"/>
+  <File Type="ROUTE-PWR-SUM" Name="redundancia_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="redundancia_reports.tcl"/>
+  <File Type="BITSTR-MSK" Name="redundancia.msk"/>
+  <File Type="ROUTE-CLK" Name="redundancia_clock_utilization_routed.rpt"/>
+  <File Type="RDI-RDI" Name="redundancia.vdi"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="redundancia_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="redundancia.bit"/>
+  <File Type="BG-DRC" Name="redundancia.drc"/>
+  <File Type="BG-BGN" Name="redundancia.bgn"/>
+  <File Type="BG-BIN" Name="redundancia.bin"/>
+  <File Type="BITSTR-RBT" Name="redundancia.rbt"/>
+  <File Type="BITSTR-NKY" Name="redundancia.nky"/>
+  <File Type="BITSTR-BMM" Name="redundancia_bd.bmm"/>
+  <File Type="BITSTR-MMI" Name="redundancia.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="redundancia_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-SYSDEF" Name="redundancia.sysdef"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="redundancia_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="redundancia.ltx"/>
+  <File Type="BOOT-PDI-FILE" Name="redundancia_soc.pdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <File Type="NPI_FILE" Name="redundancia.npi"/>
+  <File Type="OPT-DRC" Name="redundancia_drc_opted.rpt"/>
+  <File Type="RBD_FILE" Name="redundancia.rbd"/>
+  <File Type="OPT-HWDEF" Name="redundancia.hwdef"/>
+  <File Type="PLACE-IO" Name="redundancia_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="redundancia_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="redundancia_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="redundancia_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="redundancia_incremental_reuse_pre_placed.rpt"/>
+  <File Type="ROUTE-DRC" Name="redundancia_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="redundancia_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="redundancia_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="redundancia_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="redundancia_route_status.pb"/>
+  <File Type="ROUTE-DCP" Name="redundancia_routed.dcp"/>
+  <File Type="ROUTE-ERROR-DCP" Name="redundancia_routed_error.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="redundancia_routed_bb.dcp"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="redundancia_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="redundancia_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="redundancia_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="redundancia_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="redundancia_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="redundancia_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="redundancia_bus_skew_routed.rpx"/>
+  <File Type="OPT-DCP" Name="redundancia_opt.dcp"/>
+  <File Type="PLACE-DCP" Name="redundancia_placed.dcp"/>
+  <File Type="PWROPT-DCP" Name="redundancia_pwropt.dcp"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="redundancia_postplace_pwropt.dcp"/>
+  <File Type="PHYSOPT-DCP" Name="redundancia_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="redundancia_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="redundancia_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="redundancia_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="redundancia_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="redundancia_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="redundancia_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="redundancia_bus_skew_postroute_physopted.rpx"/>
+  <File Type="ROUTE-DRC-RPX" Name="redundancia_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="redundancia_methodology_drc_routed.rpx"/>
+  <File Type="PDI-FILE" Name="redundancia.pdi"/>
+  <File Type="PL-PDI-FILE" Name="redundancia_pld.pdi"/>
+  <File Type="RCFI_FILE" Name="redundancia.rcfi"/>
+  <File Type="CFI_FILE" Name="redundancia.cfi"/>
+  <File Type="RNPI_FILE" Name="redundancia.rnpi"/>
+  <File Type="ROUTE-RQS" Name="redundancia_routed.rqs"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS" Name="redundancia_postroute_physopted.rqs"/>
+  <File Type="ROUTE-RQS-RPT" Name="route_report_qor_suggestions_0.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-RQS-RPT" Name="postroute_physopt_report_qor_suggestions_0.rpt"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1" RelGenDir="$PGENDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/imports/new/clk_divider.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../contador_redundante/contador_redundante.srcs/sources_1/new/clk_divider.vhd"/>
+        <Attr Name="ImportTime" Val="1744094444"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/contador1.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../contador_redundante/contador_redundante.srcs/sources_1/new/contador1.vhd"/>
+        <Attr Name="ImportTime" Val="1744094444"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/contador2.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../contador_redundante/contador_redundante.srcs/sources_1/new/contador2.vhd"/>
+        <Attr Name="ImportTime" Val="1744094444"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/display_controller.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../contador_redundante/contador_redundante.srcs/sources_1/new/display_controller.vhd"/>
+        <Attr Name="ImportTime" Val="1744094444"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/seven_decoder.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../contador_redundante/contador_redundante.srcs/sources_1/new/seven_decoder.vhd"/>
+        <Attr Name="ImportTime" Val="1744094444"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/imports/new/redundancia.vhd">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../contador_redundante/contador_redundante.srcs/sources_1/new/redundancia.vhd"/>
+        <Attr Name="ImportTime" Val="1744094444"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="redundancia"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1" RelGenDir="$PGENDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/imports/new/Nexys-A7-100T-Master.xdc">
+      <FileInfo>
+        <Attr Name="ImportPath" Val="$PPRDIR/../contador_redundante/contador_redundante.srcs/constrs_1/new/Nexys-A7-100T-Master.xdc"/>
+        <Attr Name="ImportTime" Val="1744094444"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1" RelGenDir="$PGENDIR/utils_1">
+    <Filter Type="Utils"/>
+    <File Path="$PSRCDIR/utils_1/imports/synth_1/redundancia.dcp">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedInSteps" Val="synth_1"/>
+        <Attr Name="AutoDcp" Val="1"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2023"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+    <Step Id="write_device_image"/>
+  </Strategy>
+</GenRun>
